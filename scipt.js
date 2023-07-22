@@ -262,6 +262,191 @@ let flowers = {
     'text1': 'Флорист собирает букет',
     'text1': 'Курьер доставляет Вам или адресату',
   },
+  '8scr': {
+    'logo': 'https://files.stavbers.site/flowers/logo-green.png',
+    'title': 'ЦВЕТОЧНЫЕ КОРОБОЧКИ СО СЛАДОСТЯМИ',
+    'priceTip': 'https://files.stavbers.site/flowers/label-price.png',
+    'descr': 'Сладкая цветочная коробочка. Цветочная коробочка с свежими макарунами станет необычным и очень приятным подарком и будет радовать долгое время. Заказать цветочную коробочку в Екатеринбурге просто!',
+    'textColor': '#b2b2b2',
+    'accentColor': '#b90554',
+    'info': 'описание',
+
+    'flowers': [
+      {
+        'title': 'КОРОБОЧКА 1',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-19.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '1990 грн',
+        'priceNew': '2200 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-action.png',
+      },
+      {
+        'title': 'КОРОБОЧКА 2',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-20.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '1990 грн',
+        'priceNew': '1800 грн',
+        'btn': 'заказать',
+        'beforEl': '',
+      },
+      {
+        'title': 'КОРОБОЧКА 3',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-21.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': 'за шт грн',
+        'priceNew': '2500 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+      {
+        'title': 'КОРОБОЧКА 4',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-22.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': 'за шт грн',
+        'priceNew': ' 2200 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+      {
+        'title': 'КОРОБОЧКА 5',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-23.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': 'за шт грн',
+        'priceNew': '1800 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+      {
+        'title': 'КОРОБОЧКА 6',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-24.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': 'за шт грн',
+        'priceNew': '2500 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+    ],
+  },
+  '9scr': {
+    'logo': 'https://files.stavbers.site/flowers/logo-green.png',
+    'title': 'СИНИЕ РОЗЫ',
+    'priceTip': 'https://files.stavbers.site/flowers/label-price.png',
+    'descr': 'Синие розы в Екатеринбурге. Хотите удивить девушку? Букет синих роз станет приятным и незабываемым подарком. Blue Roses - синие розы, таят в себе загадку и таинственность, которая не оставит равнодушным ни одну девушку!',
+    'textColor': '#b2b2b2',
+    'accentColor': '#b90554',
+    'info': 'описание',
+
+    'flowers': [
+      {
+        'title': '31 СИНЯЯ РОЗА',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-27.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '4950 грн',
+        'priceNew': '4650 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-action.png',
+      },
+      {
+        'title': '25 СИНИХ РОЗ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-26.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '4000 грн',
+        'priceNew': '3750 грн',
+        'btn': 'заказать',
+        'beforEl': '',
+      },
+      {
+        'title': '15 СИНЯЯ РОЗА',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-25.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '2490 грн',
+        'priceNew': '2250грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      }
+    ],
+  },
+  '10scr': {
+    'logo': 'https://files.stavbers.site/flowers/logo-green.png',
+    'title': 'ВОЗДУШНЫЕ ШАРЫ С ГЕЛИЕМ',
+    'priceTip': 'https://files.stavbers.site/flowers/label-price.png',
+    'descr': 'Ни один праздник не обходится без воздушных шаров. Вы можете выбрать латексные шары, фольгинированные шары или дизайнерские воздушные шары. Так же, Вы можете заказать доставку воздушных шаров в Екатеринбурге.',
+    'textColor': '#b2b2b2',
+    'accentColor': '#b90554',
+    'info': 'описание',
+
+    'flowers': [
+      {
+        'title': 'ЛАТЕКСНЫЕ ШАРЫ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-28.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': 'за шар грн',
+        'priceNew': ' от 30 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-action.png',
+      },
+      {
+        'title': 'ШАРЫ С НАДПИСЬЮ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-29.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': 'за шар грн',
+        'priceNew': ' от 50 грн',
+        'btn': 'заказать',
+        'beforEl': '',
+      },
+      {
+        'title': 'ФОЛЬГИРОВАННЫЕ ШАРЫ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-30.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': 'за шар грн',
+        'priceNew': ' от 150 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      }
+    ],
+  },
+  'slider': [
+    'https://files.stavbers.site/flowers/works/work-1.png', 'https://files.stavbers.site/flowers/works/work-2.png', 'https://files.stavbers.site/flowers/works/work-3.png', 'https://files.stavbers.site/flowers/works/work-4.png', 'https://files.stavbers.site/flowers/works/work-5.png', 
+  ],
+  '11scr': {
+    'title': 'Как к нам добраться',
+    'descr': 'г. Харків, ул. Тракторобуд, 3',
+    'img': 'https://files.stavbers.site/flowers/contact-flowers.png',
+    'mapInfo': 'г. Харків, ул. Тракторобуд, 3',
+  },
+  '12scr': [
+    'Цветы в Магадане, розы, букеты из роз, доставка цветов в Екатеринбурге от компании «Fabrika»', 'Салон цветов Fabrika работает уже более 1 года на рынке цветов! За это время мы зарекомендовали себя как стабильная и успешная компания. Благодаря качественной продукции и современному сервису, мы завоевали доверие и уважение со стороны наших покупателей.', 'Теперь Вы можете заказать доставку цветов не выходя из дома! доставка цветов по Екатеринбургу осуществляется быстро и всегда вовремя! Возможна доставка роз по Свердловской области! Каждый, изготовленный букет – это шедевр наших флористов! Наряду с доставкой цветов в компании развита розничная продажа цветов. Вы всегда можете приехать к нам и выбрать букет роз для своих любимых людей!',
+  ],
+  '13scr': [
+    {
+      'img': 'https://files.stavbers.site/flowers/icon-fb.png',
+      'alt': 'Фабріка в',
+    },
+    {
+      'img': 'https://files.stavbers.site/flowers/icon-ig.png',
+      'alt': 'Фабріка в',
+    },
+    {
+      'img': 'https://files.stavbers.site/flowers/icon-fb.png',
+      'alt': 'Фабріка в',
+    },
+  ],
+  '14scr': 'КАЖДЫЙ МЕСЯЦ ВЛЮБЛЕННЫЕ ПАРНИ ДАРЯТ 19 000 НАШИХ РОЗ СВОИМ ДЕВУШКАМ',
+  '15scr': [
+    {
+      'img': 'https://files.stavbers.site/flowers/logo.png',
+    },
+    {
+      'img': 'https://files.stavbers.site/flowers/delivery-247.png',
+    },
+    {
+      'text': 'НУЖЕН БУКЕТ? ЗВОНИ!',
+      'link': '+7 (900) 041-80-80',
+      'text': 'Г.ЕКАТЕРИНБУРГ, УЛ.ГЕНЕРАЛЬСКАЯ, 3',
+      'accentColor': '#bc0555',
+    },
+  ],
 }
 
 
