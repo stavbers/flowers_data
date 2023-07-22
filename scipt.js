@@ -1,7 +1,7 @@
 let flowers = {
-  'logotupe': 'https://files.stavbers.site/flowers/logo.svg',
+  'logotype': 'https://files.stavbers.site/flowers/logo.svg',
   'menuTop': ['розы кения','букеты из роз','тюльпаны','хризантемы','цветочные коробки','синие розы','воздушные шары'],
-  'firstScr': {
+  '1scr': {
     'action': 'https://files.stavbers.site/flowers/action-caption.png',
     'title': 'БУКЕТ ИЗ 39 РОЗ',
     'subTitle': '(РОЗЫ КЕНИЯ, 9 ЦВЕТОВ НА ВЫБОР)',
@@ -11,7 +11,7 @@ let flowers = {
     'newPrice': '1599 грн',
     'btn': 'заказать букет по акции'
   },
-  'secondScr': [
+  '2scr': [
     {
       'img': 'https://files.stavbers.site/flowers/advantage-1.png',
       'title': 'БОЛЬШИЕ БУКЕТЫ РОЗ ПО ОПТОВЫМ ЦЕНАМ'
@@ -37,13 +37,14 @@ let flowers = {
       'title': 'УВИДЬ СВОЙ БУКЕТ ПЕРЕД ДОСТАВКОЙ - МЫ ОТПРАВИМ ВАМ ФОТО БУКЕТА'
     },
   ],
-  'thirdScr': {
+  '3scr': {
     'logo': 'https://files.stavbers.site/flowers/logo-green.png',
     'title': 'РОЗЫ КЕНИЯ',
     'priceTip': 'https://files.stavbers.site/flowers/label-price.png',
     'descr': 'Если вы хотите купить розы ОЧЕНЬ дешево, розы Кения это Ваш вариант. Кенийская роза - яркая и ароматная! Роза имеет бутон среднего размера и высотой 37 см. Вы можете выбрать цвет из 9 цветов в наличии. Розы Кения - это возможность сэкономить и купить цветы дешево, это значит, что Вы сможете купить больше роз для Вашего праздника!',
     'textColor': '#b2b2b2',
     'accentColor': '#b90554',
+    'info': 'описание',
 
     'flowers': [
       {
@@ -73,9 +74,202 @@ let flowers = {
         'btn': 'заказать',
         'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
       }
-    ]
-  }
+    ],
+  },
+  '4scr': {
+    'logo': 'https://files.stavbers.site/flowers/logo-green.png',
+    'title': 'БУКЕТЫ ИЗ РОЗ',
+    'priceTip': 'https://files.stavbers.site/flowers/label-price.png',
+    'descr': 'Купить букет из роз в Екатеринбурге. Букет белых роз, букет красных роз или букет розовых роз от 1290 руб. Оптовые цены на цветы действуют на всю линейку букетов роз. Купить цветы по оптовой цене в Екатеринбурге.',
+    'textColor': '#b2b2b2',
+    'accentColor': '#b90554',
+    'info': 'описание',
+
+    'flowers': [
+      {
+        'title': 'БУКЕТ 19 РОЗ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-4.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-60cm.png',
+        'priceOld': '1590 грн',
+        'priceNew': '1390 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-action.png',
+      },
+      {
+        'title': 'БУКЕТ 25 РОЗ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-5.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-60cm.png',
+        'priceOld': '2250 грн',
+        'priceNew': '1750 грн',
+        'btn': 'заказать',
+        'beforEl': '',
+      },
+      {
+        'title': 'БУКЕТ 31 РОЗА',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-6.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-60cm.png',
+        'priceOld': '2250 грн',
+        'priceNew': '2170 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+      {
+        'title': 'БУКЕТ 51 РОЗФ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-7.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-60cm.png',
+        'priceOld': '4290 грн',
+        'priceNew': '3570 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+      {
+        'title': 'БУКЕТ 101 РОЗА',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-8.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-60cm.png',
+        'priceOld': '7790 грн',
+        'priceNew': '6990 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+      {
+        'title': 'БУКЕТ 201 РОЗА',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-9.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-60cm.png',
+        'priceOld': '14990 грн',
+        'priceNew': '13990 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+      {
+        'title': 'БУКЕТ 25 РОЗ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-10.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-40cm.png',
+        'priceOld': '1500 грн',
+        'priceNew': '1375 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+      {
+        'title': 'БУКЕТ 51 РОЗА',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-11.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-40cm.png',
+        'priceOld': '3190 грн',
+        'priceNew': '2800 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+      {
+        'title': 'БУКЕТ 101 РОЗ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-12.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-40cm.png',
+        'priceOld': '6490 грн',
+        'priceNew': '4990 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      },
+    ],
+  },
+  '5scr': {
+    'logo': 'https://files.stavbers.site/flowers/logo-green.png',
+    'title': 'ТЮЛЬПАНЫ',
+    'priceTip': 'https://files.stavbers.site/flowers/label-price.png',
+    'descr': 'Купить тюльпаны в Екатеринбурге. Заказ и доставка букетов из тюльпанов в Екатеринбурге. В нашей компании вы всегда можете купить тюльпаны оптом.',
+    'textColor': '#b2b2b2',
+    'accentColor': '#b90554',
+    'info': 'описание',
+
+    'flowers': [
+      {
+        'title': '19 ТЮЛЬПАНОВ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-13.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '1990 грн',
+        'priceNew': '1140 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-action.png',
+      },
+      {
+        'title': '25 ТЮЛЬПАНОВ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-14.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '2190 грн',
+        'priceNew': '1500 грн',
+        'btn': 'заказать',
+        'beforEl': '',
+      },
+      {
+        'title': '51 ТЮЛЬПАН',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-15.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '3290 грн',
+        'priceNew': '2800 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      }
+    ],
+  },
+  '6scr': {
+    'logo': 'https://files.stavbers.site/flowers/logo-green.png',
+    'title': 'ХРИЗАНТЕМЫ',
+    'priceTip': 'https://files.stavbers.site/flowers/label-price.png',
+    'descr': 'Букеты из хризантем в Екатеринбурге! Хризантемы - универсальный цветок, их можно дарить абсолютно всем и по любому поводу. Очень стойкие, они долгое время будут радовать ваших близких. В наличии кустовые хризантемы и одноголовые хризантемы. Вы можете заказать букет из любого количества цветка. Доставка букетов хризантем по Екатеринбургу.',
+    'textColor': '#b2b2b2',
+    'accentColor': '#b90554',
+    'info': 'описание',
+
+    'flowers': [
+      {
+        'title': 'БУКЕТ ИЗ 11 ХРИЗАНТЕМ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-16.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '1990 грн',
+        'priceNew': '1100 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-action.png',
+      },
+      {
+        'title': 'БУКЕТ ИЗ 15 ХРИЗАНТЕМ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-17.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '1990 грн',
+        'priceNew': '1350 грн',
+        'btn': 'заказать',
+        'beforEl': '',
+      },
+      {
+        'title': 'КУСТОВАЯ ХРИЗАНТЕМА',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-18.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': 'за шт грн',
+        'priceNew': ' от 10 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
+      }
+    ],
+  },
+  '7scr': {
+    'title': 'Как заказать букет',
+    'bg': 'https://files.stavbers.site/flowers/order-bg.jpg',
+    'img1': 'https://files.stavbers.site/flowers/order-phone.png',
+    'img5': 'https://files.stavbers.site/flowers/order-manager.png',
+    'img2': 'https://files.stavbers.site/flowers/order-cash.png',
+    'img3': 'https://files.stavbers.site/flowers/order-card.png',
+    'img4': 'https://files.stavbers.site/flowers/order-flowers.png',
+    'img6': 'https://files.stavbers.site/flowers/order-delivey.png',
+    'text1': 'Вы нам звоните или отправляете заявку с сайта',
+    'text1': 'Менеджер уточняет детали',
+    'text1': 'Вы оплачиваете по карте, либо можете оплатить курьеру наличными при доставке букета',
+    'text1': 'Флорист собирает букет',
+    'text1': 'Курьер доставляет Вам или адресату',
+  },
 }
+
+
+
+
+
+
+
 
 
 let obj = {
