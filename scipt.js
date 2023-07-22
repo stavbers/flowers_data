@@ -1,11 +1,11 @@
 let flowers = {
-  'logotupe': '',
+  'logotupe': 'https://files.stavbers.site/flowers/logo.svg',
   'menuTop': ['розы кения','букеты из роз','тюльпаны','хризантемы','цветочные коробки','синие розы','воздушные шары'],
   'firstScr': {
-    'action': '',
+    'action': 'https://files.stavbers.site/flowers/action-caption.png',
     'title': 'БУКЕТ ИЗ 39 РОЗ',
     'subTitle': '(РОЗЫ КЕНИЯ, 9 ЦВЕТОВ НА ВЫБОР)',
-    'bg': '',
+    'bg': 'https://files.stavbers.site/flowers/action-bg.jpg',
     'actionTitle': 'Заказать букет по акции!',
     'oldPrice': '2000 грн',
     'newPrice': '1599 грн',
@@ -13,43 +13,65 @@ let flowers = {
   },
   'secondScr': [
     {
-      'img': '',
+      'img': 'https://files.stavbers.site/flowers/advantage-1.png',
       'title': 'БОЛЬШИЕ БУКЕТЫ РОЗ ПО ОПТОВЫМ ЦЕНАМ'
     },
     {
-      'img': '',
+      'img': 'https://files.stavbers.site/flowers/advantage-2.png',
       'title': 'ЕЖЕДНЕВНАЯ ПОСТАВКА РОЗ 200% СВЕЖЕСТЬ'
     },
     {
-      'img': '',
+      'img': 'https://files.stavbers.site/flowers/advantage-3.png',
       'title': 'УСЛУГА - АНОНИМНО ДОСТАВИМ ЗА ВАС'
     },
     {
-      'img': '',
+      'img': 'https://files.stavbers.site/flowers/advantage-4.png',
       'title': 'СНИМЕМ МОМЕНТ ВРУЧЕНИЯ БУКЕТА И ПЕРЕДАДИМ ВАМ ЭМОЦИИ ПОЛУЧАТЕЛЯ'
     },
     {
-      'img': '',
+      'img': 'https://files.stavbers.site/flowers/advantage-5.png',
       'title': 'ОПЛАТА НАЛИЧНЫМИ КУРЬЕРУ / ПЕРЕВОД НА КАРТУ'
     },
     {
-      'img': '',
+      'img': 'https://files.stavbers.site/flowers/advantage-6.png',
       'title': 'УВИДЬ СВОЙ БУКЕТ ПЕРЕД ДОСТАВКОЙ - МЫ ОТПРАВИМ ВАМ ФОТО БУКЕТА'
     },
   ],
   'thirdScr': {
-    'logo': '',
-    'title': '',
-    'priceTip': '',
-    'descr': '',
+    'logo': 'https://files.stavbers.site/flowers/logo-green.png',
+    'title': 'РОЗЫ КЕНИЯ',
+    'priceTip': 'https://files.stavbers.site/flowers/label-price.png',
+    'descr': 'Если вы хотите купить розы ОЧЕНЬ дешево, розы Кения это Ваш вариант. Кенийская роза - яркая и ароматная! Роза имеет бутон среднего размера и высотой 37 см. Вы можете выбрать цвет из 9 цветов в наличии. Розы Кения - это возможность сэкономить и купить цветы дешево, это значит, что Вы сможете купить больше роз для Вашего праздника!',
+    'textColor': '#b2b2b2',
+    'accentColor': '#b90554',
+
     'flowers': [
       {
-        'title': '',
-        'img': '',
-        'strip': '',
-        'priceOld': '',
-        'priceNew': '',
-        'btn': '',
+        'title': 'БУКЕТ 35 РОЗ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-1.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '1300 грн',
+        'priceNew': '999 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-action.png',
+      },
+      {
+        'title': 'БУКЕТ 151 РОЗ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-2.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '6500 грн',
+        'priceNew': '4000 грн',
+        'btn': 'заказать',
+        'beforEl': '',
+      },
+      {
+        'title': 'БУКЕТ 51 РОЗ',
+        'img': 'https://files.stavbers.site/flowers/flowers/item-3.png',
+        'strip': 'https://files.stavbers.site/flowers/flower-37cm.png',
+        'priceOld': '2250 грн',
+        'priceNew': '1500 грн',
+        'btn': 'заказать',
+        'beforEl': 'https://files.stavbers.site/flowers/label-hit.png',
       }
     ]
   }
